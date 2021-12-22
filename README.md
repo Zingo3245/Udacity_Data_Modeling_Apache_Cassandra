@@ -8,9 +8,7 @@ Clone the github repo and use pip install to install the required libraries
 
 ``
 git clone https://github.com/Zingo3245/Udacity_Data_Modeling_Apache_Cassandra
-
 cd Udacity_Data_Modeling_Apache_Cassandra
-
 pip install -r requirements.txt
 ``
 
